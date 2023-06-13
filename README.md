@@ -1,0 +1,1 @@
+# Diplom_QA_Yandex_Praktikum_XA
