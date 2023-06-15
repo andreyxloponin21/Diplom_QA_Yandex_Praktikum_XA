@@ -1,7 +1,68 @@
-<h1 align="center">Дипломный проект ЯндексПрактикум<br></1h>
-<p></p>
-<p align="left">В данном дипломном проекте представленна работа по тестированию веб-приложения Яндекс.Самокат, тестированию мобильного приложения, бекенда сервиса Яндекс.самоката.<br></p>
-Ссылки на баг репорты бекэнда с помощю POSTMAN 
-https://andrey-xloponin.youtrack.cloud/issue/XAD-37/Sozdanie-kurera-POST-api-v1-courier-pole-imya-soderzhit-probel
-https://andrey-xloponin.youtrack.cloud/issue/XAD-34/Sozdanie-kurera-POST-api-v1-courier-parol-soderzhit-otricatelnoe-znachenie
-https://andrey-xloponin.youtrack.cloud/issue/XAD-37/Sozdanie-kurera-POST-api-v1-courier-pole-imya-soderzhit-probel
+
+<div align="center">
+  <h1 style="font-size: 24px; color: red; margin-bottom: 2em;">Дипломный проект ЯндексПрактикум</h1>
+</div>
+<p><font size="3">Навыки которые я получил в процессе обучения</font></p>
+<ol>
+   <li>Проектирование тестов</li>
+  <ol>
+    <li>Техники тест-дизайна</li>
+    <li>Чек-листы</li>
+    <li>Тест-кейсы</li>
+    <li>Функциональное тестирование</li>
+    <li>Тестирование UI</li>
+    <li>Жизненый цикл ПО</li>
+    <li>Методологии и процессы разработки</li>
+    
+  </ol>
+  <br>
+  <li>Тестирование веб-приложений</li>
+  <ol>
+    <li>Структура HTTP-запросов</li>
+    <li>Работа со сниферами "Сharles"</li>
+    <li>Кроссбраузерное тестирование</li>
+    <li>Тестирование веб-приложения</li>
+  </ol>
+    <br>
+  <li>Тестирование мобильных прилржений и API</li>
+    <ol>
+      <li>Работа с Android Studio</li>
+      <li>Рабоа с Postman</li>
+      <li>Работа и тестирование с API</li>
+      <li>Тестирование мобильных приложений</li>
+      <li>Написание JSON файлов</li>
+    </ol>
+  </li>
+    <br>
+   <li>Тестирование мобильных прилржений и API</li>
+    <ol>
+      <li>Автоматизация</li>
+      <li>JavaScript</li>
+      <li>Работа с библиотекой puppeteer</li>
+    </ol>
+  </li>
+  <br>
+     <li>Основы автоматизации тестирования</li>
+    <ol>
+      <li>Работа с БД</li>
+      <li>Написание SQL запросов</li>
+      <li>Подключение к удаленному серверу</li>
+      <li>Работа с Терминалом</li>
+    </ol>
+  </li>
+</ol>
+
+<p><font size="6">Мой дипломный проект состоит из</font></p>
+
+<ol>
+   <li>Проектирование тестов</li>
+  <ol>
+    <li>Техники тест-дизайна</li>
+    <li>Чек-листы</li>
+    <li>Тест-кейсы</li>
+    <li>Функциональное тестирование</li>
+    <li>Тестирование UI</li>
+    <li>Жизненый цикл ПО</li>
+    <li>Методологии и процессы разработки</li>
+    
+  </ol>
