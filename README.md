@@ -57,10 +57,10 @@
 <ol>
    <li>Задание один содержит ответы на теоретическую часть по тестированияю</li><br>
    <li>Во втором задании я занимался разработкой mindmap для сайта сервиса ЯндексСамокат.<br>Задача заключалось в том чтобы декомпозировать элементы сайта, создать схему верстки сайта. Создать блок схему с описанием логики работы сайта<br>
-   <br>Затем я разработал чек лист на версту сайта ЯндексСамокат.<br><a href="https://docs.google.com/spreadsheets/d/1S3sYhHkKRpIOqvLSzWysqT4XU6RhHfZWQAnSXwjuhtA/edit#gid=487831728">Ссылка на чек-лист</a>
+   <br>Затем я разработал чек лист на версту сайта ЯндексСамокат.<br><br><a href="https://docs.google.com/spreadsheets/d/1S3sYhHkKRpIOqvLSzWysqT4XU6RhHfZWQAnSXwjuhtA/edit#gid=487831728">Ссылка на чек-лист</a>
 <p>Затем я составил чек-лист с проверкой валидаии форм заказа самоката</p>  
 <a href="https://docs.google.com/spreadsheets/d/1S3sYhHkKRpIOqvLSzWysqT4XU6RhHfZWQAnSXwjuhtA/edit#gid=1293309445">Ссылка на чек-лист валдации</a></li><br>
-  <li>В третим задании я разработал тест кейсы по проверке мобильного приложения для тогочто протестировать мобильное приложение я использовал AndroidStudio, Postman, и терминал для подключения к БД<br>
+  <li>В третим задании я разработал тест кейсы по проверке мобильного приложения для тогочто протестировать мобильное приложение я использовал AndroidStudio, Postman, и терминал для подключения к БД<br><br>
   <a href="https://docs.google.com/spreadsheets/d/1S3sYhHkKRpIOqvLSzWysqT4XU6RhHfZWQAnSXwjuhtA/edit#gid=359153222">Ссылка на тест-кейсы</a>
    
   </li>
